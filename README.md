@@ -1,2 +1,2 @@
-# CourseToolsForDataScience-IBM
-I am learning about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio with the Tools for Data Science course, specialization made by IBM and certified by Coursera.
+# Tools for Data Science (IBM and Coursera)
+I am learning about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio with the Tools for Data Science course, specialization made by IBM and certified by Coursera. With this course, I'm learning about what each tool is used for, what programming languages they can execute, their features and limitations. With the tools hosted in the cloud on Skills Network Labs, I am be able to test each tool and follow instructions to run simple code in Python, R or Scala.
